@@ -68,10 +68,6 @@
 - **Step-01:** Services Introduction
 - **Step-02:** Services Demo
 
-### YAML Basics
-- **Step-01:** Introduction to Kubernetes Declarative Approach
-- **Step-02:** YAML Basics
-
 ### Kubernetes - Pods with YAML
 - **Step-01:** Create Pod Manifest in YAML
 - **Step-02:** Create Node Port Service & Test
