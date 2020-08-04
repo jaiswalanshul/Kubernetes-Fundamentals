@@ -2,18 +2,17 @@
 
 ## Contents
 
-| S.No | Course Contents |
+| S.No | Contents |
 | ---- | --------------- |
 | 1. | Kubernetes Architecture  |
 | 2. | Pods with kubectl  |
 | 3. | ReplicaSets with kubectl  |
 | 4. | Deployments with kubectl  |
 | 5. | Services with kubectl  |
-| 6. | YAML Basics  |
-| 7. | Pods with YAML  |
-| 8. | ReplicaSets with YAML  |
-| 9. | Deployments with YAML  |
-| 10. | Services with YAML  |
+| 6. | Pods with YAML  |
+| 7. | ReplicaSets with YAML  |
+| 8. | Deployments with YAML  |
+| 9. | Services with YAML  |
 
 ## Imperative & Declarative Approach
 - Pods
